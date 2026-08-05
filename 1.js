@@ -1,3 +1,5 @@
+// Sum values in Object arrays
+
 // My Solution
 
 // let expenses = {
